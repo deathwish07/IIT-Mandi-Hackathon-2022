@@ -11,3 +11,4 @@ Mainly 4 Pages are created:
 
 
 ***To open the main page of the website one must open Home_page.html
+Also you will be able to access the file clearly if you download the zip file and open home page through it.***
