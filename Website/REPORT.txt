@@ -1,0 +1,21 @@
+REPORT
+
+--------A beautiful e-learning site presented by Non-Profit Organisation--------
+
+LOGO: Logo is taken from- Creator : vectorstock.com/33974327
+IMAGES : Images are taken from OpenSource.
+
+STRUCTURE AND DESIGN OF WEBSITE:
+1) HTML: Webpages has been created using HTML.
+2) CSS: Webpages has been designed by CSS, especially Tailwind CSS.
+
+
+CONENT:
+1) HIGH QUALITY CONTENT- Website contains the basic knowledge children need while going from lower grades like 2-3 to the higher grades.
+2) EASY TO UNDERSTAND- The contents are very easily understandable for every teachers and students.
+3) ACCESSIBLE- The contents are provided free of cost, our organisation is non-profit.
+4) OPTIMIZATION- All contents of webpages are optimized for mobile view.
+5) HOMEPAGE- It's a general welcome pages for visitors and well linked with all other social media sites.
+
+HOSTING:
+Web Hosting is done using GitHub.
